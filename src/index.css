@@ -5,11 +5,10 @@
 @tailwind components;
 @tailwind utilities;
 
-
 body {
-font-family: 'Noticia Text', serif;
+  font-family: 'Noticia Text', serif;
 }
 
-.title{
+.title {
   font-family: 'Inter';
 }
