@@ -23,7 +23,7 @@ Instale e rode o projeto com:
   npm run dev
 ```
 
-ou entre em: [senfinanca.vercel.app](senfinanca.vercel.app)
+ou entre em: [https://senfinanca-phi.vercel.app/](https://senfinanca-phi.vercel.app/)
 
 ## Authors
 
